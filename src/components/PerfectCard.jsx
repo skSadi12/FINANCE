@@ -3,7 +3,7 @@ import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
 
 function Herox() {
   return (
-    <section className="flex flex-col md:flex-row justify-center items-center  gap-10 p-5">
+    <section className="flex my-10 flex-col md:flex-row justify-center items-center  gap-10 p-5">
       <div>
         <img src="perfect-card.svg" alt="" className="w-full" />
       </div>

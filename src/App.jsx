@@ -7,6 +7,7 @@ import Navbarx from "./components/Navbar";
 import Offer from "./components/Offer";
 import Herox from "./components/PerfectCard";
 import Feedbacks from "./components/Feedbacks";
+import FAQ from "./components/FAQ";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Debit/>
       <Herox/>
       <Feedbacks/>
+      <FAQ/>
     </>
   );
 }
