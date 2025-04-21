@@ -8,6 +8,7 @@ import Offer from "./components/Offer";
 import Herox from "./components/PerfectCard";
 import Feedbacks from "./components/Feedbacks";
 import FAQ from "./components/FAQ";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Herox/>
       <Feedbacks/>
       <FAQ/>
+      <Footer/>
     </>
   );
 }

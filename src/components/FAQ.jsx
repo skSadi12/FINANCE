@@ -30,7 +30,7 @@ export default function FAQ() {
     },
   ];
   return (
-    <div className="text-center max-w-[1200px] mx-auto px-5">
+    <div className="text-center max-w-[1200px] mx-auto ">
         <h3 className="text-[40px] font-bold my-5">FAQs</h3>
       {faqs.map((items, i) => (
         <div key={i} className="space-y-3">
